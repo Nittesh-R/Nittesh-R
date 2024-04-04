@@ -73,38 +73,6 @@ Tech Stack
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2>
-<a href="">
-		<img src="https://media.tenor.com/n1ipuL3lD2gAAAAi/cardano-rock-nft-rock.gif" width="40" />
-	</a>
-	My Stats
-	<a href="">
-		<img src="https://media.tenor.com/n1ipuL3lD2gAAAAi/cardano-rock-nft-rock.gif" width="40" />
-	</a>
 
-</h2>
 
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lara-vel-dev&theme=dracula&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lara-vel-dev&theme=dracula&hide_border=false" /> 
-</td>
 
-<td width="50%" align="center">
- <img  align="center"  src="https://media.tenor.com/cBjvVgYOzwwAAAAd/toph-beifong-the-blind-bandit.gif"/>
-  </td>
-</tr>
-<tr>
-    <td colspan='2' align='center'>
-	<h2> #30NitesOfCode </h2>
-        <img src='https://www.codedex.io/api/petStatus?user=lara-vel-dev'>
-	<br>
-	<a href='https://www.codedex.io/@lara-vel-dev/30-nites-of-code'>Check my progress!</a>
-    </td>
-</tr>
-</table>
